@@ -10,7 +10,7 @@
 <br/>
 😄 Pronouns: he/him.
 <br/>
-⚡ Fun fact: I ran a Dodgeball league for years, and wrote a custom CMS to manage teams, schedules and alerts.
+⚡ Fun fact: I ran a Dodgeball league for years and wrote a custom CMS to manage teams, schedules and alerts.
 <!--
 **rrenna/rrenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
