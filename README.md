@@ -8,7 +8,7 @@
 <br/>
 📫 How to reach me: rrenna360@gmail.com
 <br/>
-😄 Pronouns: He/Him.
+😄 Pronouns: he/him.
 <br/>
 ⚡ Fun fact: I ran a Dodgeball league for years, and wrote a custom CMS to manage teams, schedules and alerts.
 <!--
